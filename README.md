@@ -1,4 +1,4 @@
-# 📝 Laravel Task Management App
+# Laravel Task Management App
 
 This is a simple Task Management application built with Laravel. 
 It demonstrates basic **CRUD (Create, Read, Update, Delete)** operations using Laravel's MVC structure. 
